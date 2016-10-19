@@ -3,7 +3,7 @@
  */
 fun main(args: Array<String>) {
     names("Rehan", "Santosh", "Pritesh")
-    anothername("Rehan", "Santosh", "Pritesh", age = 25)
+    anothername("Rehan", "Santosh", "Pritesh Chavarkar", age = 25)
 }
 
 fun names(vararg names: String) {
